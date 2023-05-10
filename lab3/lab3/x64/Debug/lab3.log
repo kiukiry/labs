@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lab3_main.cpp
+C:\Users\user\Desktop\laba1\lab3\lab3\Lab3_main.cpp(30,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab3.vcxproj -> C:\Users\user\Desktop\laba1\lab3\lab3\x64\Debug\lab3.exe

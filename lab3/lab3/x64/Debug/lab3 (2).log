@@ -1,0 +1,5 @@
+﻿  Lab2_main.cpp
+C:\Users\user\Desktop\laba1\lab2\Lab2\Lab2_main.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Tovar.cpp
+  Создание кода...
+  Lab2.vcxproj -> C:\Users\user\Desktop\laba1\lab2\Lab2\x64\Debug\Lab2.exe
