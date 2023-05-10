@@ -1,0 +1,5 @@
+﻿  Lab1_main.cpp
+C:\Users\user\Desktop\laba1\lab1\Lab1_main.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  fraction.cpp
+  Создание кода...
+  lab1.vcxproj -> C:\Users\user\Desktop\laba1\lab1\x64\Debug\lab1.exe
